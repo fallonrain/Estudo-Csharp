@@ -1,0 +1,15 @@
+E:\csharp\Jogo\obj\Debug\net7.0\Jogo.csproj.AssemblyReference.cache
+E:\csharp\Jogo\obj\Debug\net7.0\Jogo.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\Jogo\obj\Debug\net7.0\Jogo.AssemblyInfoInputs.cache
+E:\csharp\Jogo\obj\Debug\net7.0\Jogo.AssemblyInfo.cs
+E:\csharp\Jogo\obj\Debug\net7.0\Jogo.csproj.CoreCompileInputs.cache
+E:\csharp\Jogo\bin\Debug\net7.0\Jogo.exe
+E:\csharp\Jogo\bin\Debug\net7.0\Jogo.deps.json
+E:\csharp\Jogo\bin\Debug\net7.0\Jogo.runtimeconfig.json
+E:\csharp\Jogo\bin\Debug\net7.0\Jogo.dll
+E:\csharp\Jogo\bin\Debug\net7.0\Jogo.pdb
+E:\csharp\Jogo\obj\Debug\net7.0\Jogo.dll
+E:\csharp\Jogo\obj\Debug\net7.0\refint\Jogo.dll
+E:\csharp\Jogo\obj\Debug\net7.0\Jogo.pdb
+E:\csharp\Jogo\obj\Debug\net7.0\Jogo.genruntimeconfig.cache
+E:\csharp\Jogo\obj\Debug\net7.0\ref\Jogo.dll
