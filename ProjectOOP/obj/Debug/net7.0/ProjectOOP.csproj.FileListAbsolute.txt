@@ -1,0 +1,15 @@
+E:\csharp\OOP\ProjectOOP\bin\Debug\net7.0\ProjectOOP.exe
+E:\csharp\OOP\ProjectOOP\bin\Debug\net7.0\ProjectOOP.deps.json
+E:\csharp\OOP\ProjectOOP\bin\Debug\net7.0\ProjectOOP.runtimeconfig.json
+E:\csharp\OOP\ProjectOOP\bin\Debug\net7.0\ProjectOOP.dll
+E:\csharp\OOP\ProjectOOP\bin\Debug\net7.0\ProjectOOP.pdb
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\ProjectOOP.csproj.AssemblyReference.cache
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\ProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\ProjectOOP.AssemblyInfoInputs.cache
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\ProjectOOP.AssemblyInfo.cs
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\ProjectOOP.csproj.CoreCompileInputs.cache
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\ProjectOOP.dll
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\refint\ProjectOOP.dll
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\ProjectOOP.pdb
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\ProjectOOP.genruntimeconfig.cache
+E:\csharp\OOP\ProjectOOP\obj\Debug\net7.0\ref\ProjectOOP.dll
